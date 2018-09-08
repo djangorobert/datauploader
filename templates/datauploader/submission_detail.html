@@ -1,0 +1,17 @@
+{% extends 'datauploader/base.html' %}
+
+
+{% block content %}
+
+
+
+
+
+<h1>Details..</h1>
+<p>Posted by: {{ object.you }}</p>
+<p>File Name: {{ object.filename }}</p>
+<p>Description: {{ object.description }}</p>
+<p>Posted on: {{ object.timestamp }}</p>
+<p>Json File: {{ object.file }}</p>
+
+{% endblock %}
