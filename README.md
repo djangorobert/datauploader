@@ -14,4 +14,7 @@ http://localhost:8000/polls/
 
 ![Alt text](uploadsnip.JPG?raw=true)
 
+#Uploaded Files
+
+![Alt text](uploadlists.JPG?raw=true)
 
